@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TheRealGeeBee
-- 👀 I’m interested in connecting with developers from acreoss the world.
-- 🌱 I’m currently learning mobile development in C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via WhatsApp on +2348127690527
+- Hey!👋 I’m Gabriel Onyedika Nnamoko
+
+An upcoming Data Science Engineer passionate about building intelligent AI-powered digital solutions in education.
 
 <!---
 TheRealGeeBee/TheRealGeeBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
