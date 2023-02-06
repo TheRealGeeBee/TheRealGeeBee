@@ -1,6 +1,6 @@
 # 👋 I’m Gabriel Onyedika Nnamoko 👋
 
---> A sophomore undergraduate student of Electronics and Computer Engineering at Nnamdi AZikiwe University Awka, Nigeria.
+--> A sophomore undergraduate student of Electronics and Computer Engineering at Nnamdi Azikiwe University Awka, Nigeria.
 
 --> A Data Science Intern at Future Academy Africa (Nigeria).
 
