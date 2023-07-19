@@ -2,7 +2,11 @@
 
 --> A penultimate year undergraduate student of Electronics and Computer Engineering at Nnamdi Azikiwe University Awka, Nigeria.
 
+--> Current Chair, Computational Intelligence (AI) Society, IEEE-UNIZIK Student Branch
+
 --> A former Data Science Intern at Future Academy Africa (Nigeria).
+
+--> Current Data Science scholarship holder (sponsored by Ingressive For Good and DataCamp)
 
 --> A current ASPIRE Institute Fellow.
 
