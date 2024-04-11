@@ -1,6 +1,6 @@
 # 👋 I’m Gabriel Onyedika Nnamoko 👋
 
---> A penultimate year undergraduate student of Electronics and Computer Engineering at Nnamdi Azikiwe University Awka, Nigeria.
+--> A final year undergraduate student of Electronics and Computer Engineering at Nnamdi Azikiwe University Awka, Nigeria.
 
 --> Current Chair, Computational Intelligence (AI) Society, IEEE-UNIZIK Student Branch
 
